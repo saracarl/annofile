@@ -27,8 +27,20 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/test.json",
+            "label": "test"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/my-label.json",
             "label": "my label"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/layer.json",
+            "label": "layer"
           }
         ],
         "items": [

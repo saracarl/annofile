@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/layer.json",
+  "type": "AnnotationPage",
+  "label": "layer",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/layer-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "annotation",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "start time,end time"
+        }
+      }
+    }
+  ]
+}
