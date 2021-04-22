@@ -23,6 +23,20 @@
         "id": "https://saracarl.github.io/annofile/ionoscatter/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2375,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/annofile/ionoscatter/canvas-1/canvas/underscore.json",
+            "label": "underscore"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/annofile/ionoscatter/canvas-1/canvas/label.json",
+            "label": "label"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/annofile/ionoscatter/canvas-1/paintings",
