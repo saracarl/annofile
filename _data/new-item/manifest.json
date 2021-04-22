@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://saracarl.github.io/annofile/new-item/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "new item" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/RTFM-Harp-950312",
+        "type": "Text",
+        "label": { "en": [ "new item" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 159,
+        "items": [
+          {
+            "id": "https://saracarl.github.io/annofile/new-item/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://saracarl.github.io/annofile/new-item/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801202.us.archive.org/11/items/78_i-aint-gonna-bring-my-bacon-home-to-you_jimmie-dolan-ramblin-jimmie-dolan_gbia0000010b/I%20Ain%27t%20Gonna%20Bring%20My%20Bacon%20Home%20to%20You%20-%20Jimmie%20Dolan.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 159
+                },
+                "target": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
