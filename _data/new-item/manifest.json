@@ -33,6 +33,12 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/sara.json",
+            "label": "sara"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://saracarl.github.io/annofile/new-item/canvas-1/canvas/my-label.json",
             "label": "my label"
           }
